@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "stakeAddress": "",
+    "stakePairName": "UDE-BNB LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 2,
+    "stakeAddress": "",
+    "stakePairName": "UDE-BUSD LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 3,
+    "stakeAddress": "",
+    "stakePairName": "UDE-CAKE LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 4,
+    "stakeAddress": "",
+    "stakePairName": "UDE-ETH LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 5,
+    "stakeAddress": "",
+    "stakePairName": "UDE-BAKE LP",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  }
+]

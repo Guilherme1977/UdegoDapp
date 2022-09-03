@@ -1,0 +1,50 @@
+[
+  {
+    "name": "BNB",
+    "symbol": "BNB",
+    "address": "bnb",
+    "chainId": 56,
+    "decimals": 18,
+    "tokenImg": "/tokens/bnb.png"
+  },
+  {
+    "name": "UDEGO",
+    "symbol": "UDE",
+    "address": "0xb22e110E8B83e5eFe88E4aF3a52ff39A7Afd814c",
+    "chainId": 56,
+    "decimals": 18,
+    "tokenImg": "/tokens/ude.png"
+  },
+  {
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "chainId": 56,
+    "decimals": 18,
+    "tokenImg": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+  },
+  {
+    "name": "PancakeSwap",
+    "symbol": "CAKE",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "chainId": 56,
+    "decimals": 18,
+    "tokenImg": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "chainId": 56,
+    "decimals": 18,
+    "tokenImg": "https://tokens.pancakeswap.finance/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+  },
+  {
+    "name": "BakerySwap Token",
+    "symbol": "BAKE",
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "chainId": 56,
+    "decimals": 18,
+    "tokenImg": "https://tokens.pancakeswap.finance/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
+  }
+]

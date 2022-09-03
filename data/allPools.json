@@ -1,0 +1,39 @@
+[
+  {
+    "id": 0,
+    "stakeAddress": "",
+    "stakePairName": "UDE POOL",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "isCompounding": true,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 6,
+    "stakeAddress": "",
+    "stakePairName": "WBNB POOL",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  },
+  {
+    "id": 7,
+    "stakeAddress": "",
+    "stakePairName": "CAKE POOL",
+    "stakeAssetImage": "",
+    "totalLiquidity": 0,
+    "earnToken": "",
+    "hasStaked": false,
+    "stakedAmount": 0,
+    "apr": 0,
+    "apy": 0
+  }
+]
