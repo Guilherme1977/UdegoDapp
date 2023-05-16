@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "stakeAddress": "",
-    "stakePairName": "UDE-BNB LP",
+    "stakeAddress": "0x25baAE6aFCd9a69316AC8EEdA287468f188BE8B4",
+    "stakePairName": "DOGE-BNB LP",
     "stakeAssetImage": "",
     "totalLiquidity": 0,
     "earnToken": "",
@@ -13,8 +13,8 @@
   },
   {
     "id": 2,
-    "stakeAddress": "",
-    "stakePairName": "UDE-BUSD LP",
+    "stakeAddress": "0x25baAE6aFCd9a69316AC8EEdA287468f188BE8B4",
+    "stakePairName": "DOGE-BUSD LP",
     "stakeAssetImage": "",
     "totalLiquidity": 0,
     "earnToken": "",
