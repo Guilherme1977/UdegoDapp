@@ -13,9 +13,9 @@
   ],
   "tokens": [
     {
-      "name": "UDEGO",
-      "symbol": "UDE",
-      "address": "0xb22e110E8B83e5eFe88E4aF3a52ff39A7Afd814c",
+      "name": "DOGECOINSWAP",
+      "symbol": "DOGE",
+      "address": "0x25baAE6aFCd9a69316AC8EEdA287468f188BE8B4",
       "chainId": 56,
       "decimals": 18,
       "tokenImg": "/tokens/ude.png"
